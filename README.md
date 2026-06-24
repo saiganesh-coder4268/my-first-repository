@@ -8,4 +8,10 @@ Author = Sai Ganesh
 ls command = check all the files in repo
 <br>
 git status = check the status of modification
-
+<br> git pull = helps to get the new commited repo in vs, from github
+<br>
+git add .
+<br>
+git commit -m "message"
+git push
+<br> = helps to rewrite the repo in vs and upload directly to the git hub
