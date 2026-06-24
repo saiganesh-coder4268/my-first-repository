@@ -15,3 +15,5 @@ git add .
 git commit -m "message"
 git push
 <br> = helps to rewrite the repo in vs and upload directly to the git hub
+<br>
+ls -a = helps to check the hidden files inthe repo
